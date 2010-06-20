@@ -1,0 +1,19 @@
+
+# Ivan Savov 
+# Sun 20 Jun 2010 17:57:24 EDT
+#
+
+Essential things before can "request to pull":
+  - finish other doku specific changes
+  - write docs (explain that we assume jsmath pluing is present)
+  - write tests
+
+Wishlist:
+  - see how I can make isSimpleList accept lists with math in them
+
+
+# comment
+# WOOOOW I am sooo impressed with Haskell
+# I never knew the language, but it clean and simple to learn
+# it is just like lisp with math syntax 
+
